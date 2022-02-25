@@ -1,8 +1,6 @@
 name: click_to_copy
 description: A flutter plugin for clipboard copy and paste.
 version: 0.0.1
-authors:
-  - spider@gmail.com
 homepage: https://github.com/spiderprogrammer/click_to_copy
 
 environment:
